@@ -1,4 +1,4 @@
-# Debugging Practice: Binge-Finder
+# Debugging Task: Binge-Finder
 
 ## Instructions
 
